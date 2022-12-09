@@ -2,8 +2,8 @@
 Основы программирования и анализа данных на языке Python для урбанистов
 
 ## План работы
-- [Лекция 1](https://colab.research.google.com/drive/1923Z5cSGp4liSADpNEU9NV2qMtppqpmi?usp=sharing)
-- [Лекция 2](https://colab.research.google.com/drive/1H-sDrSdFzufvTdqa7z-5U0hlVGEu64ur?usp=sharing) 
+- [Лекция 1](https://colab.research.google.com/drive/1sYuDM9QOtgZPlxdOlAD5CaDVkWv0wyFo?usp=sharing)
+- [Лекция 2](https://colab.research.google.com/drive/1A8EzbfcA5bWULb-54ronoidntuI9Wvke?usp=sharing) 
   - [Лабораторная 0](https://github.com/Matveev-Kirill/PythonUrban/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%200)
 - [Лекция 3](https://colab.research.google.com/drive/1H0SjwycQ5Dx1ArL4QHzxLgVoyzBFzCjE?usp=sharing)
   - [Лабораторная 1](https://colab.research.google.com/drive/1vwpYasYGifiscGdDp6rpa4sfUHv6Tdu7?usp=sharing)
